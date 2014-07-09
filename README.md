@@ -7,3 +7,5 @@
 * 'git pull'
 * 'git log'
 * 'git push'
+* Out-of-sinch
+* push, pull comparison
