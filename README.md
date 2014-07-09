@@ -8,4 +8,4 @@
 * 'git log'
 * 'git push'
 * Out-of-sinch
-* push, pull comparison
+* push, pull, fetch comparison
